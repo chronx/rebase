@@ -3,4 +3,5 @@
 echo "Hello, World!";
 
 ?>
-<a href="support">go to support</a>
+<a href="support">Support</a>
+
